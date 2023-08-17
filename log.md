@@ -1,13 +1,11 @@
 # 100 Days Of Code - Logbuch
 
-### Tag 0: 17. August 2023 (Beispiel 1)
-##### (lösche oder kommentiere mich aus)
+### Tag 0: 17. August 2023 
 
-**Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
+**Heutiger Fortschritt**: Konzeptplanung der Grundfunktionen.
 
-**Gedanken:** Ich habe mich wirklich schwer getan mit CSS, aber alles in Allem habe ich das Gefühl, ich werde langsam besser darin. Canvas ist noch immer Neuland für mich, aber ich habe es geschafft einen Teil der grundlegenden Funktionalität zu verstehen.
+**Gedanken:** Mir sind einige spannende Ideen durch den Kopf gegangen, die zweifellos eine bereichernde Ergänzung zum Spielerlebnis von Dead by Daylight darstellen könnten. Stell dir vor, Spieler hätten die Möglichkeit, unkompliziert tiefer in die Welt der Killer, Survivors, Perks und Maps einzutauchen. Bisher waren solche Informationen meist auf Youtube in Form von Videos verfügbar, aber wie wäre es, wenn diese Inhalte nun auch auf andere Art und Weise zugänglich wären?
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
 
 ### Tag 1: 18. August 2023
 ##### (lösche mich oder kommentiere mich aus)
@@ -19,7 +17,7 @@
 **Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
 
 
-### Tag 1: 19. August 2023 (Beispiel 2)
+### Tag 2: 19. August 2023 (Beispiel 2)
 
 **Heutiger Fortschritt**: Ich bin einige Übungen auf freeCodeCamp durchgegangen.
 
