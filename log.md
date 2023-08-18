@@ -9,7 +9,7 @@
 
 ### Tag 1: 18. August 2023
 
-**Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
+**Heutiger Fortschritt**: 
 
 **Gedanken:** Die Herausforderung des Projekts erstreckt sich über einen Zeitraum von vollen 100 Tagen, was zweifellos ein beträchtliches Unterfangen ist. In Anbetracht dieser umfangreichen Zeitspanne habe ich beschlossen, meinen Fokus zunächst auf die Perks zu richten. Ich plane, eine innovative Funktion zu entwickeln – einen Dead by Daylight Perkbuilder bzw. Perkguide – der es den Spielern ermöglichen wird, auf einfache Weise tiefer in die Vielfalt der Perks einzutauchen und ihr Spielerlebnis weiter zu optimieren.
 
