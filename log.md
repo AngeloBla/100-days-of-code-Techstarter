@@ -8,13 +8,14 @@
 
 
 ### Tag 1: 18. August 2023
-##### (lösche mich oder kommentiere mich aus)
 
 **Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
 
-**Gedanken:** Ich habe mich wirklich schwer getan mit CSS/ wirklich mit CSS gekämpft, aber alles in allem habe ich das Gefühl, ich werde langsam besser darin. Canvas ist noch immer Neuland für mich, aber ich habe es geschafft einen Teil der grundlegenden Funktionalität zu verstehen.
+**Gedanken:** Die Herausforderung des Projekts erstreckt sich über einen Zeitraum von vollen 100 Tagen, was zweifellos ein beträchtliches Unterfangen ist. In Anbetracht dieser umfangreichen Zeitspanne habe ich beschlossen, meinen Fokus zunächst auf die Perks zu richten. Ich plane, eine innovative Funktion zu entwickeln – einen Dead by Daylight Perkbuilder bzw. Perkguide – der es den Spielern ermöglichen wird, auf einfache Weise tiefer in die Vielfalt der Perks einzutauchen und ihr Spielerlebnis weiter zu optimieren.
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
+Die Meta hat sich in der Dead by Daylight-Community oft auf die immer gleichen Perks eingeschlichen, was zu einem gewissen Grad an Vorhersehbarkeit im Gameplay geführt hat. Meine Absicht ist es jedoch, die Grenzen der Spielweise zu erweitern und einen aufregenden neuen Ansatz zu bieten, der die Vielfalt der Perks und ihre potenziellen Synergien in den Vordergrund rückt.
+
+Indem ich diese verschiedenen Perks aus neuen Blickwinkeln beleuchte, werde ich Spielern ermöglichen, eine breite Palette von Kombinationen zu erkunden und dadurch frische Taktiken und Strategien zu entwickeln. Das Spiel wird dadurch eine faszinierende Tiefe erhalten, die es den Spielern erlaubt, ihren individuellen Stil zu entwickeln und gleichzeitig das Gesamterlebnis für alle aufregender und abwechslungsreicher zu gestalten. Neue Horizonte werden sich auftun, und die Spieler werden die Freude daran erleben, innovative Wege zu entdecken, wie sie die Fähigkeiten ihrer Charaktere maximieren und gleichzeitig ihren Gegnern immer einen Schritt voraus sein können. Dies wird zweifellos eine erfrischende Brise in die Dead by Daylight-Spielwelt bringen und das Spielgeschehen in ungeahnte Richtungen lenken.
 
 
 ### Tag 2: 19. August 2023 (Beispiel 2)
