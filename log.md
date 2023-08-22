@@ -9,7 +9,7 @@
 
 ### Tag 1: 18. August 2023
 
-**Heutiger Fortschritt**: 
+**Heutiger Fortschritt**: Datenanalyse und gedankliche Gestaltung der Funktionen.
 
 **Gedanken:** Die Herausforderung des Projekts erstreckt sich über einen Zeitraum von vollen 100 Tagen, was zweifellos ein beträchtliches Unterfangen ist. In Anbetracht dieser umfangreichen Zeitspanne habe ich beschlossen, meinen Fokus zunächst auf die Perks zu richten. Ich plane, eine innovative Funktion zu entwickeln – einen Dead by Daylight Perkbuilder bzw. Perkguide – der es den Spielern ermöglichen wird, auf einfache Weise tiefer in die Vielfalt der Perks einzutauchen und ihr Spielerlebnis weiter zu optimieren.
 
@@ -18,12 +18,10 @@ Die Meta hat sich in der Dead by Daylight-Community oft auf die immer gleichen P
 Indem ich diese verschiedenen Perks aus neuen Blickwinkeln beleuchte, werde ich Spielern ermöglichen, eine breite Palette von Kombinationen zu erkunden und dadurch frische Taktiken und Strategien zu entwickeln. Das Spiel wird dadurch eine faszinierende Tiefe erhalten, die es den Spielern erlaubt, ihren individuellen Stil zu entwickeln und gleichzeitig das Gesamterlebnis für alle aufregender und abwechslungsreicher zu gestalten. Neue Horizonte werden sich auftun, und die Spieler werden die Freude daran erleben, innovative Wege zu entdecken, wie sie die Fähigkeiten ihrer Charaktere maximieren und gleichzeitig ihren Gegnern immer einen Schritt voraus sein können. Dies wird zweifellos eine erfrischende Brise in die Dead by Daylight-Spielwelt bringen und das Spielgeschehen in ungeahnte Richtungen lenken.
 
 
-### Tag 2: 19. August 2023 (Beispiel 2)
+### Tag 2: 21. August 2023 
 
-**Heutiger Fortschritt**: Ich bin einige Übungen auf freeCodeCamp durchgegangen.
+**Heutiger Fortschritt**: DB und 2 Tables erstellt. Mit Testdaten getestet.
 
-**Gedanken** Ich habe vor Kurzem mit dem Coden begonnen, und es ist ein tolles Gefühl, wenn ich nach vielfachen Ansätzen und mehreren investierten Stunden endlich einen Algorithmus gelöst bekomme.
+**Gedanken:** Heute habe ich Fortschritte bei der Erstellung meiner Datenbank für Perks im Spiel gemacht. Ich habe die Tabellen "perks" und "perk_combinations" erstellt und einige Testdaten in die Tabelle "perks" eingefügt. Außerdem habe ich begonnen, SQL-Abfragen zu verwenden, um bestimmte Informationen aus der Datenbank abzurufen. Heute werde ich mich darauf konzentrieren, wie ich die Daten aus der Kategorie "Category C" filtern und anzeigen kann.
 
-**Link(s) zur Arbeit**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
