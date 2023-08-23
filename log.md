@@ -25,3 +25,17 @@ Indem ich diese verschiedenen Perks aus neuen Blickwinkeln beleuchte, werde ich 
 **Gedanken:** Heute habe ich Fortschritte bei der Erstellung meiner Datenbank für Perks im Spiel gemacht. Ich habe die Tabellen "perks" und "perk_combinations" erstellt und einige Testdaten in die Tabelle "perks" eingefügt. Außerdem habe ich begonnen, SQL-Abfragen zu verwenden, um bestimmte Informationen aus der Datenbank abzurufen. Heute werde ich mich darauf konzentrieren, wie ich die Daten aus der Kategorie "Category C" filtern und anzeigen kann.
 
 
+### Tag 2: 22. August 2023 
+
+**Heutiger Fortschritt**: Einbindung einer externen JSON File die bereits 90% der Perks beinhaltet.
+
+**Gedanken:** Die Entdeckung einer umfassenden Json-Datei mit 90% der Perks war äußerst erfolgreich. Durch den reibungslosen Import in eine MySQL-Datenbank wird die Grundlage für den geplanten Perkbuilder gelegt. Dies ermöglicht strukturierten Zugriff auf Perk-Daten und schafft Raum für komplexe Abfragen und Verknüpfungen. Die Integration externer Quellen erlaubt zudem regelmäßige Aktualisierungen, um Nutzern stets aktuelle Informationen zu bieten. Dieser Schritt ist ein wichtiger Meilenstein für das Projekt, der eine solide Grundlage für ein umfassendes und benutzerfreundliches Spielerlebnis schafft.
+
+
+### Tag 3: 23. August 2023 
+
+**Heutiger Fortschritt**: Perks kategorisiert.
+
+**Gedanken:** Die Überlegungen zur Kategorisierung der Perks nehmen Form an, und bereits etwa die Hälfte der Perks ist erfolgreich kategorisiert. Die geplante Fertigstellung dieser Aufgabe in dieser Woche wird eine strukturierte Datenbank für den Perkbuilder sicherstellen, die die Benutzerfreundlichkeit erhöht.
+
+Mit der abgeschlossenen Kategorisierung eröffnen sich neue Möglichkeiten für die Gestaltung des Frontends. Ein ansprechendes Design und eine intuitive Nutzererfahrung werden das Projekt näher an eine funktionale und attraktive Plattform für die Spieler heranführen. Dieser Schritt ist von entscheidender Bedeutung, um den Spielern ein angenehmes und informatives Erlebnis zu bieten und das Projektziel zu erreichen.
